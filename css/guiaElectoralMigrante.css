@@ -15,27 +15,30 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+.icon-instrumentos:before {
+  content: "\e908";
+}
 .icon-accesibilidad:before {
-    content: '\0041';
+  content: "\e907";
 }
 .icon-Directorio-de-instituciones:before {
-    content: '\0042';
+  content: "\e900";
 }
 .icon-Migracin-en-la-Ciudad:before {
-    content: '\0043';
+  content: "\e901";
 }
 .icon-Organizacin-poltico-territorial:before {
-    content: '\0044';
-}
-.icon-Otras-formas-de-participacin-cvica:before {
-    content: '\0045';
+  content: "\e902";
 }
 .icon-Participacin-electoral:before {
-    content: '\0046';
+  content: "\e903";
+}
+.icon-paso-paso:before {
+  content: "\e904";
 }
 .icon-Preguntas-Frecuentes:before {
-    content: '\0047';
+  content: "\e905";
 }
 .icon-Voto-migrante-en-la-Ciudad:before {
-    content: '\0048';
+  content: "\e906";
 }
